@@ -1,0 +1,6 @@
+use_frameworks!
+target 'TZPhotoPicker_Tests' do
+  pod 'TZPhotoPicker', :path => '../'
+  
+  
+end
