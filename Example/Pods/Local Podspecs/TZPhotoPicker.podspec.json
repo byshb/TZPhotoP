@@ -1,0 +1,22 @@
+{
+  "name": "TZPhotoPicker",
+  "version": "0.1.0",
+  "summary": "A short description of TZPhotoPicker.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xiaohualao/TZPhotoPicker",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xiaohualao": "zengjing@sdiread.com"
+  },
+  "source": {
+    "git": "https://github.com/xiaohualao/TZPhotoPicker.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TZPhotoPicker/Classes/**/*"
+}

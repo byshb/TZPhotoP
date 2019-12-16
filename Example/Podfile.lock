@@ -1,0 +1,16 @@
+PODS:
+  - TZPhotoPicker (0.1.0)
+
+DEPENDENCIES:
+  - TZPhotoPicker (from `../`)
+
+EXTERNAL SOURCES:
+  TZPhotoPicker:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TZPhotoPicker: c0eb185ef73a98a5f27d26edd8e71a1450ccac0a
+
+PODFILE CHECKSUM: 03d5d8b729049acd88353b4e61c7453a597bdd1b
+
+COCOAPODS: 1.8.3
